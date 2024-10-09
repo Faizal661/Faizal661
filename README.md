@@ -1,9 +1,9 @@
 <h1 align="center">Hi there👋, I'm Mohammed Faizal T</h1>
 
-## An Aspiring MERN stack developer.
-## I'm passionate about building innovative web applications.
+ An Aspiring MERN stack developer.
+ I'm passionate about building innovative web applications.
 
-## Reach me faisalt661@gmail.com
+ Reach me faisalt661@gmail.com
 
 ## Skills
 
@@ -66,9 +66,10 @@
 </p>
 
 <hr>
+
 ## <img src="animated/light_5.gif" height="30px" /> Leetcode Stats <img src="animated/loading.gif" height="20px" />
 <br>
-  <img src="https://leetcard.jacoblin.cool/faisalt661?theme=light&font=Roboto&ext=heatmap" width="100%" />
+  <img src="https://leetcard.jacoblin.cool/faisalt661?theme=light&font=Roboto&ext=heatmap" width="70%" />
 <br>
 
 ## <img src="animated/light_5.gif" height="30px" /> My Stats <img src="animated/loading.gif" height="20px" />
