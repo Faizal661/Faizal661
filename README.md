@@ -66,9 +66,9 @@
 </p>
 
 <hr>
-<h5 align="center">Leetcode Stats:</h5>
+## <img src="animated/light_5.gif" height="30px" /> Leetcode Stats <img src="animated/loading.gif" height="20px" />
 <br>
-  <img src="https://leetcard.jacoblin.cool/faisalt661?theme=light&font=Roboto&ext=heatmap"/>
+  <img src="https://leetcard.jacoblin.cool/faisalt661?theme=light&font=Roboto&ext=heatmap" width="100%" />
 <br>
 
 ## <img src="animated/light_5.gif" height="30px" /> My Stats <img src="animated/loading.gif" height="20px" />
