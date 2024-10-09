@@ -48,15 +48,6 @@
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/></a>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/></a>
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/></a>
-  
-
-
-
-
-
-
-
 
 <hr>
 
@@ -79,3 +70,14 @@
 <br>
   <img src="https://leetcard.jacoblin.cool/faisalt661?theme=light&font=Roboto&ext=heatmap"/>
 <br>
+
+<b><p align="center">My GitHub Stats</p></b>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Faizal661&&show_icons=true&title_color=1E90FF&text_color=2a9d8f&bg_color=141414" alt="GitHub Stats" />
+</p>
+
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Faizal661" alt="GitHub Trophies" style="color: #1E90FF;" />
+  </a>
+</p>
