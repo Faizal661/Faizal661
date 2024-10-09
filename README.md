@@ -66,18 +66,13 @@
 </p>
 
 <hr>
-<h3 align="left">📊 Leetcode Stats:</h3>
+<h5 align="center">Leetcode Stats:</h5>
 <br>
   <img src="https://leetcard.jacoblin.cool/faisalt661?theme=light&font=Roboto&ext=heatmap"/>
 <br>
 
-<b><p align="center">My GitHub Stats</p></b>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Faizal661&&show_icons=true&title_color=1E90FF&text_color=2a9d8f&bg_color=141414" alt="GitHub Stats" />
-</p>
+## <img src="animated/light_5.gif" height="30px" /> My Stats <img src="animated/loading.gif" height="20px" />
 
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Faizal661" alt="GitHub Trophies" style="color: #1E90FF;" />
-  </a>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Faizal661&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=Faizal661&theme=dark)
+
