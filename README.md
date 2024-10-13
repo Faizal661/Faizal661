@@ -76,4 +76,5 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Faizal661&show_icons=true&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Faizal661&theme=dark)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Faizal661)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Faizal661&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
