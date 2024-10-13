@@ -67,12 +67,12 @@
 
 <hr>
 
- <img src="animated/light_5.gif" height="30px" /> Leetcode Stats <img src="animated/loading.gif" height="20px" />
+## <img src="animated/light_5.gif" height="30px" /> Leetcode Stats <img src="animated/loading.gif" height="20px" />
 <br>
   <img src="https://leetcard.jacoblin.cool/faisalt661?theme=light&font=Roboto&ext=heatmap" width="70%" />
 <br>
 
-<img src="animated/light_5.gif" height="30px" /> My Stats <img src="animated/loading.gif" height="20px" />
+ ## <img src="animated/light_5.gif" height="30px" /> My Stats <img src="animated/loading.gif" height="20px" />
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Faizal661&show_icons=true&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Faizal661&theme=dark)
