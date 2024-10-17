@@ -8,11 +8,11 @@
 ## Skills
 
 * React
-* Node.js
-* MongoDB
+* Node.js , Express.js
+* MongoDB , PostgreSQL
+* HTML/CSS , 
+* Tailwind , Bootstrap
 * JavaScript,TypeScript
-* HTML/CSS
-* Tailwind,Bootstrap
 
 ## Connect with me  
 <div align="left">
