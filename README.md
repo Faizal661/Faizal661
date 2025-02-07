@@ -76,7 +76,7 @@
 
 <h3 align="left">Projects:</h3>
 <ul>
-  <li>Project 1 :<a href="https://github.com/Faizal661/LuxeScents" target="_blank"> LuxeScent</a><br>LuxeScent is a E-Commerce Perfume selling platform developed by usign Node.js, Express.js, MongoDB ,Ejs etc...
+  <li>Project 1 :<a href="https://github.com/Faizal661/LuxeScents" target="_blank"> LuxeScent (E-commerce)</a><br>LuxeScent is a E-Commerce Perfume selling platform developed by usign Node.js, Express.js, MongoDB ,Ejs etc...
 
 </li>
   <li>Project 2 :<a href="https://github.com/Faizal661/Chat-App-MERN" target="_blank"> Chat Application using Socket.io</a><br>This project is an real time chat application usign socket.io .Technologies used Express, Mongodb,React,TypeScript and Tailwind .
