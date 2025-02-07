@@ -79,8 +79,9 @@
   <li>Project 1 :<a href="https://github.com/Faizal661/LuxeScents" target="_blank"> LuxeScent</a><br>LuxeScent is a E-Commerce Perfume selling platform developed by usign Node.js, Express.js, MongoDB ,Ejs etc...
 
 </li>
-  <li>Project 2 :<a href="https://github.com/Faizal661/weather-app" target="_blank"> WeatherApp</a><br>This mini project will show real time weather details of cities all around the world .And this is developed by usign React,TypeScript and Tailwind .
-
+  <li>Project 2 :<a href="https://github.com/Faizal661/Chat-App-MERN" target="_blank"> Chat Application using Socket.io</a><br>This project is an real time chat application usign socket.io .Technologies used Express, Mongodb,React,TypeScript and Tailwind .
+</li>
+  <li>Project 3 :<a href="https://100-mini-projects.vercel.app" target="_blank"> 100-mini-projects</a> <br>100 mini projects in React [...Ongoing]
 </li>
 </ul>
 
