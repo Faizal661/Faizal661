@@ -79,12 +79,12 @@
   <li>Project 1 :<a href="https://github.com/Faizal661/LuxeScents" target="_blank"> LuxeScent (E-commerce)</a><br>LuxeScent is a E-Commerce Perfume selling platform developed by usign Node.js, Express.js, MongoDB ,Ejs etc...
 
 </li>
-  <li>Project 2 :<a href="https://github.com/Faizal661/Fit-And-Core" target="_blank"> Fit And Core (MERN)</a><br>Fit & Core is an online fitness training platform that connects trainees with professional trainers [ ... Ongoing ]
+  <li>Project 2 :<a href="https://github.com/Faizal661/Fit-And-Core" target="_blank"> Fit And Core (MERN)</a><br>Fit & Core is an online fitness training platform that connects trainees with professional trainers [ ... work in progress. ]
 </li>
-  <li>Project 3 :<a href="https://github.com/Faizal661/Chat-App-MERN" target="_blank"> Message BroadCaster (WebSocket)</a><br>This project is an real time message broadcasting application.Technologies used Express, React,TypeScript and WebSocket.
+  <li>Project 3 :<a href="https://github.com/Faizal661/WebSocket---BroadCast" target="_blank"> Message BroadCaster (WebSocket)</a><br>This project is an real time message broadcasting application.Technologies used Express, React,TypeScript and WebSocket.
 </li>
 </li>
-  <li>Project 4 :<a href="https://100-mini-projects.vercel.app" target="_blank"> 100-mini-projects</a> <br>100 mini projects in React .
+  <li>Project 4 :<a href="https://100-mini-projects.vercel.app" target="_blank"> 100-mini-projects</a> <br>100 mini projects in React [... work in progress].
 </li>
 </ul>
 
